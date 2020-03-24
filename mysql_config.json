@@ -1,0 +1,9 @@
+{
+    "mysql":{
+        "host":"localhost",
+        "user":"myla",
+        "passwd":"Myla123*",
+        "db":"test"
+    }
+    
+}
