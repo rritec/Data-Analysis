@@ -1,0 +1,7 @@
+name,treatment,result
+John Smith,treatment a,NaN
+Jane Doe,treatment a,16.0
+Mary Johnson,treatment a,3.0
+John Smith,treatment b,2.0
+Jane Doe,treatment b,11.0
+Mary Johnson,treatment b,1.0
